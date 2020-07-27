@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AA5A-F91F
+
+ Directory of C:\Users\WELCOME\Desktop\newproject
+
+27-07-2020  18:57    <DIR>          .
+27-07-2020  18:57    <DIR>          ..
+27-07-2020  18:57               125 test.txt
+               1 File(s)            125 bytes
+               2 Dir(s)  418,857,607,168 bytes free
